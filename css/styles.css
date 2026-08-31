@@ -7,13 +7,13 @@
 /* --- CSS Custom Properties --- */
 :root {
   /* Colors */
-  --clr-bg-primary: #0b0b14;
-  --clr-bg-secondary: #12121f;
-  --clr-bg-card: rgba(255, 255, 255, 0.04);
-  --clr-bg-card-hover: rgba(255, 255, 255, 0.07);
-  --clr-bg-glass: rgba(255, 255, 255, 0.06);
-  --clr-border: rgba(255, 255, 255, 0.08);
-  --clr-border-hover: rgba(200, 169, 110, 0.3);
+  --clr-bg-primary: #2B0A12;
+  --clr-bg-secondary: #3A0D18;
+  --clr-bg-card: rgba(139, 38, 53, 0.25);
+  --clr-bg-card-hover: rgba(168, 50, 69, 0.35);
+  --clr-bg-glass: rgba(139, 38, 53, 0.20);
+  --clr-border: rgba(226, 201, 146, 0.15);
+  --clr-border-hover: rgba(226, 201, 146, 0.35);
 
   --clr-gold: #c8a96e;
   --clr-gold-light: #e2c992;
