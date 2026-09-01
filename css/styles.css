@@ -394,6 +394,8 @@ body::before {
   transform: translate(-50%, -50%);
   width: 180px;
   height: auto;
+  object-fit: cover;
+  border-radius: 50½;
   z-index: 2;
 }
 
