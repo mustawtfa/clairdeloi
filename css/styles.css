@@ -395,7 +395,7 @@ body::before {
   width: 240px;
   height: 240px;
   object-fit: cover;
-  border-radius: 50½;
+  border-radius: 50%;
   overflow: hidden;
   z-index: 10;
 }
