@@ -395,7 +395,8 @@ body::before {
   width: 240px;
   height: 240px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 50%; !important;
+  clip-path: circle (50% at 50% 50%);
   z-index: 10;
   display: block;
 }
@@ -404,7 +405,7 @@ body::before {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translete(-50%, -50%);
+  transform: translate(-50%, -50%);
   width: 320px;
   height: 320px;
   border-radius: 50%;
