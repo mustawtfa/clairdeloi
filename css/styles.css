@@ -387,6 +387,16 @@ body::before {
   z-index: 0;
 }
 
+.hero-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 180px;
+  height: auto;
+  z-index: 2;
+}
+
 .float-circle {
   position: absolute;
   border-radius: 50%;
